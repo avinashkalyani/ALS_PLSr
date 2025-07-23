@@ -37,8 +37,7 @@ A collection of scripts designed to perform a comprehensive neuroimaging analysi
 6. [Usage Workflow](#usage-workflow)
 7. [Results](#results)
 8. [Contributing](#contributing)
-9. [License](#license)
-10. [Citation](#citation)
+9. [Citation](#citation)
 
 ---
 
