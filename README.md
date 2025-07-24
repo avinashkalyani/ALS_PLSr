@@ -108,7 +108,7 @@ ALS_Project/
 * **Functional Preprocessing & Masking**: Thresholding and morphological refinement of fMRI statistical maps (FSL, AFNI).
 * **Functional Connectivity (ECM)**: High-Frequency Connectivity mapping via vecm and vnifti.
 * **GLM Analysis (SPM12)**: First- and second-level models for task-based fMRI.
-* **Shared Response Model (rSRM)**: Aligns multi-subject fMRI data and classifies ALS subgroups.
+* **Shared Response Model (rSRM)**: Aligns multi-subject fMRI data.
 * **PLSR**: Relates BOLD and ECM features to behavioral scores with cross-validation.
 
 ---
@@ -201,4 +201,4 @@ Contributions are welcome! Please open an issue or submit a pull request for bug
 
 If you use this code or data, please cite:
 
-Kalyani, A., et al. (202x). *Individualized Phenotyping of Functional ALS Pathology in Sensorimotor Cortex*. NeuroImage. DOI\:xxx
+Kalyani, A., et al. (202x). *Individualized Phenotyping of Functional ALS Pathology in Sensorimotor Cortex*. DOI\:xxx
